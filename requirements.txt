@@ -1,0 +1,4 @@
+pygame
+customtkinter
+pyQT5
+pyQT6
