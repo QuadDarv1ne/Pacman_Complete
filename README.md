@@ -15,8 +15,8 @@
 **Several games in the series were released for a multitude of home consoles and are included in many Bandai Namco video game compilations.**
 
 <h3 align="">
-  <img align="center" alt="Repository" width="400px" height="600" src="https://github.com/QuadDarv1ne/Pacman_Complete/assets/51045274/00326b61-8b81-4838-9bff-6efa44523bfe"> ⌘ 
-  <img align="center" alt="Repository" width="400px" height="600" src="https://github.com/QuadDarv1ne/Pacman_Complete/assets/51045274/c65c4c38-d1db-4ce2-afb7-4b7382dbb315">
+  <img align="center" alt="Repository" width="3800px" height="600" src="https://github.com/QuadDarv1ne/Pacman_Complete/assets/51045274/00326b61-8b81-4838-9bff-6efa44523bfe"> ⌘ 
+  <img align="center" alt="Repository" width="380px" height="600" src="https://github.com/QuadDarv1ne/Pacman_Complete/assets/51045274/c65c4c38-d1db-4ce2-afb7-4b7382dbb315">
 </h3>
 
 ### 3D Play Scene
