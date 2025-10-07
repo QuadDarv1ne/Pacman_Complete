@@ -1,6 +1,7 @@
 # Pacman_Complete
 
 [![DOI](https://zenodo.org/badge/648788484.svg)](https://doi.org/10.5281/zenodo.17264424)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7605--539X-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7605-539X)
 
 ![image](https://github.com/QuadDarv1ne/Pacman_Complete/assets/51045274/ffea0326-717e-4069-9447-ba3df48ad4b7)
 
@@ -43,4 +44,5 @@
 
                                                 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂
                                                   « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
+
 
