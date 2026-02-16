@@ -42,7 +42,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=QuadDarv1ne/Pacman_Complete&type=Date)](https://star-history.com/#QuadDarv1ne/Pacman_Complete&Date)
+
                                                 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂
                                                   « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
-
-
